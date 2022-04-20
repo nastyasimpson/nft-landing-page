@@ -63,7 +63,7 @@ header .container {
   background: var(--btn-bg-color);
   color: var(--accent-color);
   font-family: var(--font-secondary);
-  font-style: italic;
+  font-style: bold;
   font-weight: bold;
   font-size: 1rem;
   text-transform: capitalize;
@@ -141,9 +141,9 @@ section {
 
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
-  font-style: italic;
+  font-style: bold;
   margin: 2rem 0;
-  font-size: 3.5rem;
+  font-size: 4.32rem;
   text-align: center;
 }
 
