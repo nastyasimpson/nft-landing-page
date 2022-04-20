@@ -5,13 +5,13 @@
 
 :root {
   --font-primary: 'Inter';
-  --font-secondary: 'Arvo', serif;
-  --font-code: 'Inter'
-  --bg-color: #F5FFFA;
+  --font-secondary: 'Inter';
+  --font-code: 'Inter';
+  --bg-color: #000000;
   --font-color: #708090;
-  --btn-bg-color: #B0E0E6;
-  --accent-color: #2F4F4F;
-  --header-shadow: #000 0px 0px 5px;
+  --btn-bg-color: #F0F8FF;
+  --accent-color: #3e4040;
+  --header-shadow: #F0F8FF 0px 0px 5px;
 }
 
 * {
